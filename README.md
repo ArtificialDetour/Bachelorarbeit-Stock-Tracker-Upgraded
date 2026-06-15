@@ -1,0 +1,1 @@
+# Bachelorarbeit-Stock-Tracker-Upgraded
